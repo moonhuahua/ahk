@@ -1,0 +1,5 @@
+vim.map("<sp-b>","<笔记ch>","Chrome")
+vim.map("<sp-w>","<上翻整页ch>","Chrome")
+vim.map("<sp-s>","<下翻整页ch>","Chrome")
+vim.map("<sp-z>","<设置ch>","Chrome")
+vim.map("t","<百度spch>","Chrome")
